@@ -60,7 +60,7 @@ sections:
 
           ### $30
 
-          per month, billed yearly
+          **per month, billed yearly**
 
           *   Et semper leo mattis orci conubia congue
           *   Quisque eleifend imperdiet tortor
